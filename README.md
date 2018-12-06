@@ -24,3 +24,25 @@ puis
 [] Units tests (Jasmine, Jext …)
 # ECF-JS
 # ECF-JS
+
+# TP des EFC Javascript PopSchool
+
+2018, Philippe Pary
+
+## Description
+
+Application des gestion d'élèves par promotions.
+
+## Technologie utilisées.
+
+lisez le code.
+
+## installation 
+
+'npm install'
+
+## usage
+
+Developpement: 'npm run dev' 'ouvrir un navigateur avec du livereload)
+
+production: 'npm run build' (créer les fichiers à publier dans '/dist')
